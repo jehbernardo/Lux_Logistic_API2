@@ -40,8 +40,11 @@ Criar base de dados relacional e Dashboard que permita:
 
  ### Tecnologias Específicas/Apoio
  > 5W2H
+> 
 >JiraSoftware
+> 
 > PowerBi
+> 
 > GitHub
   
  ### Tecnologias da Informação
