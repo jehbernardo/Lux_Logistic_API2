@@ -94,8 +94,14 @@ Requisitos não funcionais
 
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
+<details>
+
+<summary> 1ª SPRINT </summary>
+ 
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API2/blob/main/Documenta%C3%A7%C3%A3o/Burndown/Gr%C3%A1fico%20de%20Gant%20-%201%C2%AA%20Sprint.png)
+
+</details>
 
 ## Sprint 0. Concepção
 - [x] Estrutura do backlog;
